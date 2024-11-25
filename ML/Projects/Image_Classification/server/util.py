@@ -96,7 +96,7 @@ def get_face_if_2_eyes(img, base64_data):
 
 if __name__ == "__main__":
     load_artifacts()
-    # print(classify_image(get_b64_test_img_for_virat()))
-    print(classify_image(None, "./server/test_images/ronaldo_(56).jpg"))
-    print(classify_image(None, "./server/test_images/kane_(117).jpg"))
-    print(classify_image(None, "./server/test_images/Sharapova_ (93).jpg"))
+    print(classify_image(get_b64_test_img_for_virat()))
+    # print(classify_image(None, "./server/test_images/ronaldo_(56).jpg"))
+    # print(classify_image(None, "./server/test_images/kane_(117).jpg"))
+    # print(classify_image(None, "./server/test_images/Sharapova_ (93).jpg"))
