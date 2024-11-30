@@ -1,0 +1,15 @@
+artifact_uri: /home/ahmedcr7/Programming/Python/AI/computer vision/Object_detection/YOLO/runs/mlflow/518425210066571296/dc40bb20daea42f2a66ea05238bef2dc/artifacts
+end_time: 1732804478019
+entry_point_name: ''
+experiment_id: '518425210066571296'
+lifecycle_stage: active
+run_id: dc40bb20daea42f2a66ea05238bef2dc
+run_name: train5
+run_uuid: dc40bb20daea42f2a66ea05238bef2dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732803964554
+status: 3
+tags: []
+user_id: ahmedcr7
