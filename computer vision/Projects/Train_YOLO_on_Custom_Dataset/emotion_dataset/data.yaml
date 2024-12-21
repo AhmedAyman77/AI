@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise']
+
+roboflow:
+  workspace: ogi-cxpm8
+  project: emotion-detection-xa8r4
+  version: 4
+  license: Public Domain
+  url: https://universe.roboflow.com/ogi-cxpm8/emotion-detection-xa8r4/dataset/4
