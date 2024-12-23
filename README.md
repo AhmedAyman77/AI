@@ -8,7 +8,6 @@ This repository is a collection of AI projects categorized into different domain
 - **Machine Learning**: Models ranging from traditional algorithms like SVM, KNN, and Decision Trees to ensemble methods and clustering techniques.
 - **Natural Language Processing (NLP)**: Focused on text classification, sentiment analysis, and other NLP techniques.
 - **Computer Vision**: Implementations in OpenCV and YOLO for tasks such as face detection, color detection, and object detection.
-- **Kaggle Datasets**: Datasets from Kaggle used for preprocessing and model development.
 
 ## 🛠 **Technologies Used**  
 - **Languages**: Python  
